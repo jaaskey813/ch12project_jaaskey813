@@ -1,0 +1,47 @@
+
+/* Main page styling */
+body {
+    background-color: #eaf2f8;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    color: #333333;
+}
+
+/* Main heading */
+h1 {
+    color: #24527a;
+}
+
+/* Form input fields */
+input {
+    padding: 10px;
+    margin: 10px 5px;
+    border: 1px solid #888888;
+    border-radius: 4px;
+}
+
+/* Submit button */
+input[type="submit"] {
+    background-color: #24527a;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    border: 1px solid #24527a;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* Search result messages */
+.message {
+    color: #24527a;
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+/* Links */
+a {
+    color: #24527a;
+}
